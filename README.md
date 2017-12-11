@@ -8,7 +8,7 @@ https://laurel-smith.github.io/SmithieGoesWest</br>
 
 <h1>"Put me in charge!"</h1>
 
-My name is Abbey Samuel Laurel-Smith, @The46th_POTUS, and i plan to use data and tehnology to ReBuildUSAtoday. But who am i? Well, I am a Radical Republican, and i believe in the values of reconstruction and the benefit such an act brings to the economy, the middle class and the American family. Or let's just say, I believe and trust in the innovative ways of small businesses, the innovative spirit of the ordinary american and the endurance of the middle class.
+My name is Abbey Samuel Laurel-Smith, and I plan to use data and tehnology to ReBuildUSAtoday. But who am i? Well, I am a Radical Republican, and i believe in the values of reconstruction and the benefit such an act brings to the economy, the middle class and the American family. Or let's just say, I believe and trust in the innovative ways of small businesses, the innovative spirit of the ordinary american and the endurance of the middle class.
 
 Therefore, for the benefit of commerce, agriculture, family budgets, revenue and homeland defense from long endurance weapons of mass destruction and EMP attack, I plan to ReBuildUSAtoday by developing the Pacific (Princess Charllotte's lake) and the Gulf Coast better than we ever did the Atlantic.
 
