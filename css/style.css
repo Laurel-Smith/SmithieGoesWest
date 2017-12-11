@@ -502,5 +502,9 @@ display: inline;
 .share-btn.linkedin    { background: #3498DB; }
 .share-btn.email       { background: #58D68D; }
 }
+
  #socialLinks {text-align:center!important;}
+}
+
+#socialLinks { text-align:center; float: none; }
 }
