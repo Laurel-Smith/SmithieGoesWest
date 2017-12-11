@@ -1,8 +1,8 @@
 # horizontal-timeline
 
-# Abbey Laurel-Smith
+# SmithieGoesWest
 
-My plan to ReBuildCalifornia, America's west and the south western states with technology</br>
+A plan to ReBuildCalifornia, America's west and the south western states with technology</br>
 https://laurel-smith.github.io/SmithieGoesWest</br>
 @The46th_POTUS
 
