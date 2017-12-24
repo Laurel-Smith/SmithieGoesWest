@@ -469,6 +469,11 @@ display: inline;
     color: white;
 }
 
+/* Wordpress */
+.fa-wordpress {
+    background: #55ACEE;
+    color: white;
+
 /** Social Button CSS **/
 
 .share-btn {
@@ -501,6 +506,7 @@ display: inline;
 .share-btn.reddit      { background: #ff5700; }
 .share-btn.linkedin    { background: #3498DB; }
 .share-btn.email       { background: #58D68D; }
+.share-btn.wordpress   { background: #58D68D; }
 }
 
  #socialLinks {text-align:center!important;}
