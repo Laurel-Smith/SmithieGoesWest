@@ -448,6 +448,7 @@ display: inline;
 .fa-twitter {
     background: #55ACEE;
     color: white;
+  
 }
 
 /* Google+ */
@@ -461,12 +462,14 @@ display: inline;
 .fa-linkedin {
     background: #55ACEE;
     color: white;
+  
 }
 
 /* Instagram */
 .fa-instagram {
     background: #3B5998;
     color: white;
+  
 }
 
 /* Wordpress */
@@ -509,11 +512,6 @@ display: inline;
 .share-btn.wordpress   { background: #58D68D; }
 }
 
- #socialLinks {text-align:center!important;}
-}
-
-#socialLinks { text-align:center; float: none; }
-}
 ------------------------
 /* Chat containers */
 ------------------------
